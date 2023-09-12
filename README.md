@@ -1,2 +1,0 @@
-# webxr
-Fundamentos de programación
